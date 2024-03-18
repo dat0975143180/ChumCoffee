@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\QLCoffee\QLCoffee\bin\Release\QLCoffee.exe.config
+C:\Users\Admin\source\repos\QLCoffee\QLCoffee\bin\Release\QLCoffee.exe
+C:\Users\Admin\source\repos\QLCoffee\QLCoffee\bin\Release\QLCoffee.pdb
+C:\Users\Admin\source\repos\QLCoffee\QLCoffee\bin\Release\Guna.UI2[1].dll
+C:\Users\Admin\source\repos\QLCoffee\QLCoffee\obj\Release\QLCoffee.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QLCoffee\QLCoffee\obj\Release\QLCoffee.frmLogin.resources
+C:\Users\Admin\source\repos\QLCoffee\QLCoffee\obj\Release\QLCoffee.frmMain.resources
+C:\Users\Admin\source\repos\QLCoffee\QLCoffee\obj\Release\QLCoffee.Properties.Resources.resources
+C:\Users\Admin\source\repos\QLCoffee\QLCoffee\obj\Release\QLCoffee.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QLCoffee\QLCoffee\obj\Release\QLCoffee.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLCoffee\QLCoffee\obj\Release\QLCoffee.csproj.Up2Date
+C:\Users\Admin\source\repos\QLCoffee\QLCoffee\obj\Release\QLCoffee.exe
+C:\Users\Admin\source\repos\QLCoffee\QLCoffee\obj\Release\QLCoffee.pdb
